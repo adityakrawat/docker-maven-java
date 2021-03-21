@@ -1,0 +1,6 @@
+mvn-repository
+target
+
+.project
+.settings/
+.vscode
