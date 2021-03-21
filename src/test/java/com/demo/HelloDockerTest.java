@@ -1,4 +1,4 @@
-package com.demo.test;
+package com.demo;
 
 import static org.junit.Assert.assertTrue;
 
