@@ -37,7 +37,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib/</classpathPrefix>
-                <mainClass>com.demo.test.HelloDocker</mainClass>
+                <mainClass>com.demo.HelloDocker</mainClass>
               </manifest>
             </archive>
           </configuration>
